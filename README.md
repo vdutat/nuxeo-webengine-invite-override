@@ -1,6 +1,6 @@
 # About feature
  
-This is a sample `Web Engine` module overriding `Nuxeo User WebEngine Invite` module. It changes the background image of the page inviting the user to enter his/her password.
+This is a sample `Web Engine` module overriding `Nuxeo User WebEngine Invite` module. It changes the background image of the HTML page inviting the user to enter his/her password.
 
 This module is **not** supported by Nuxeo.
 
@@ -12,7 +12,7 @@ This module is **not** supported by Nuxeo.
   
 ## QA
   
-None
+None.
  
 ## Deploying
 
