@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Nuxeo User WebEngine Invite Override
+Bundle-SymbolicName: org.nuxeo.ecm.webengine.invite.override;singleton:=true
+Bundle-Vendor: Vincent Dutat
+Bundle-Version: 1.0.0
+Fragment-Host: org.nuxeo.ecm.webengine.invite
